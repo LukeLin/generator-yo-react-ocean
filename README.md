@@ -1,19 +1,19 @@
-# generator-yo-test [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-yo-react-ocean [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > 
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-yo-test using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-yo-react-ocean using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-yo-test
+npm install -g generator-yo-react-ocean
 ```
 
 Then generate your new project:
 
 ```bash
-yo yo-test
+yo yo-react-ocean
 ```
 
 ## Getting To Know Yeoman
@@ -28,9 +28,9 @@ yo yo-test
 MIT © [lukelin]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-yo-test.svg
-[npm-url]: https://npmjs.org/package/generator-yo-test
-[travis-image]: https://travis-ci.org/LukeLin/generator-yo-test.svg?branch=master
-[travis-url]: https://travis-ci.org/LukeLin/generator-yo-test
-[daviddm-image]: https://david-dm.org/LukeLin/generator-yo-test.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/LukeLin/generator-yo-test
+[npm-image]: https://badge.fury.io/js/generator-yo-react-ocean.svg
+[npm-url]: https://npmjs.org/package/generator-yo-react-ocean
+[travis-image]: https://travis-ci.org/LukeLin/generator-yo-react-ocean.svg?branch=master
+[travis-url]: https://travis-ci.org/LukeLin/generator-yo-react-ocean
+[daviddm-image]: https://david-dm.org/LukeLin/generator-yo-react-ocean.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/LukeLin/generator-yo-react-ocean
