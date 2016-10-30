@@ -41,7 +41,7 @@ module.exports = yeoman.Base.extend({
 
         this.fs.copyTpl(
             this.templatePath('clientInitialize.js'),
-            this.destinationPath(`./client/js/pages/${ appName }/render${ appName }.js`),
+            this.destinationPath(`./client/js/pages/render${ appName }.js`),
             {appName}
         );
 
