@@ -26,7 +26,7 @@ module.exports = yeoman.Base.extend({
     writing: function () {
         let {appName} = this.props;
 
-        appName = appNamereplace(/^\w/, function(a){ return a.toUpperCase() });
+        appName = appName.replace(/^\w/, function(a){ return a.toUpperCase() });
 
         this.fs.copyTpl(
             this.templatePath('actions.js'),
